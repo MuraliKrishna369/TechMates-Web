@@ -1,4 +1,8 @@
-# DevTinder-Web
+# TechMates-Web
+
+** techmates can connect to fellow techmates **
+
+
 
 - Create application using vite + react
 - remove unneccesary code in you app
